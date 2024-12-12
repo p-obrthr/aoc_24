@@ -11,10 +11,10 @@ The repository follows this structure:
 
 ```
 .
-├── 1
+├── 01
 │   ├── data.txt        # input data for day 1 (ignored in git)
 │   ├── main.go         # solution for day 1
-├── 2
+├── 02
 │   ├── data.txt        # input data for day 2 (ignored in git)
 │   ├── main.go         # solution for day 2
 ...
@@ -32,7 +32,7 @@ Each day's solution is self-contained in its respective folder. You can run the 
 
 ```bash
 # example for day 1
-cd 1  
+cd 01  
 go run main.go
 ```
 
